@@ -1,1 +1,1 @@
-# Prediction-model---social-buyer-site
+# Prediction-model-social-buyer-site
